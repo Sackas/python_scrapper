@@ -1,5 +1,5 @@
 # utilizar crontab pra executar esse script de minuto em minuto
-
+# ativar opção de Acesso a app menos seguro (gmail) para receber os emails
 from bs4 import BeautifulSoup
 import requests
 import smtplib
